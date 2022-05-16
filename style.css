@@ -1,0 +1,144 @@
+body {
+    background-image: url(imagens/marechal-hermes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    border-radius: 25px;
+    background-color: white;
+    
+    padding: 100px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 0 10px black;
+
+}
+#img1 {
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+#img2 {
+    float: left;
+    margin-right: 10px;
+    border-radius: 20px;
+    
+}
+hr {
+    padding: 1px;
+    background-color: rgb(1, 81, 142);
+}
+h1 {
+    color: rgb(1, 81, 142);
+
+}
+h2 {
+    color: rgb(1, 81, 142)
+}
+iframe {
+    margin-right: 550px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(1, 81, 142);
+    border-radius: 05px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(1, 81, 142);
+  }
+  
+  .topnav a.active {
+    background-color: white;
+    color: rgb(1, 81, 142);
+  }
+#botao {
+    margin-top: 10px;
+    margin-left: 150px;
+    color: white;
+    background-color: rgb(1, 81, 142);
+    box-shadow: 0 0 10px rgb(161, 161, 161);
+    border-radius: 10px
+    }
+#mapa {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+#ass {
+    float: right;
+    padding-top: 20px;
+}
+#img3 {
+    margin-top: 15px;
+    margin-right: 10px;
+    float: left;
+    padding-left: 30px;
+
+}
+#img4 {
+    padding-top: 25px;
+    margin-right: 10px;
+    float: left;
+    margin-left: 30px;
+
+}
+#img5 {
+    border-radius: 200px;
+    box-shadow: 0 0 10px black;
+}
+#cpf {
+    margin-left: 16px;
+}
+label {
+    color: rgb(1, 81, 142);
+
+}
+#newresp {
+    color: rgb(1, 81, 142);
+}
+.insta a {
+    overflow: hidden;
+    padding-top: 30px;
+    font-size: 1.7em;
+    text-decoration: none;
+    color: rgb(1, 81, 142);
+    
+}
+.face a {
+    
+    overflow: hidden;
+    font-size: 1.7em;
+    text-decoration: none;
+    color: rgb(1, 81, 142);
+
+}
+
+.face a:hover {
+    font-size: 2em;
+    color: purple;
+    
+    
+}
+.insta a:hover {
+    font-size: 2em;
+    color: purple;
+}
+.hri {
+    margin-top: 20px;
+}
